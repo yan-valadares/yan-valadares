@@ -1,4 +1,4 @@
-### Hi friend, I'am Yan Valadares
+### Hi friend, I am Yan Valadares
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Node
 - 😄 Pronouns: ele/dele
