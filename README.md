@@ -1,8 +1,5 @@
 ### Hi friend, I am Yan Valadares
 
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Node
-- 😄 Pronouns: ele/dele
-
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-valadares&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
